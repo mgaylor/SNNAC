@@ -4,7 +4,7 @@
 	<head>
 		<!--	<h1>SNNAC - STELLAR NFT NFC ACCESS CONTROL</h1>-->
 	</head>
-	<body>The purpose of this project is to create a portable device for granting access confirmed by NFT ownership.
+	<body>The purpose of this project is to create an NFC device for granting access confirmed by NFT ownership.
 		
 <article>
 	<h2>Project Goals:</h2>
@@ -12,25 +12,24 @@
 		<li><a>Create User Experiences</a>
 		<li><a>Encourage Participation and Growth in Related Technologies</a>
 		<li><a>Use Stellar NFTs to control access utilizing NFC</a>
-	<p>Add More Content Here</p>
 <article>
-	<h2>Timeline and Milestones:</h2>
-	<p>Add More Content Here</p>
+	<h2>This repo contains:</h2>
+	<p>NodeRed data in the .JSON file</p>
+	<p>NFC C++ code in the .ino file</p>
+	<p>SNNAC web page .html file</p>
 <p></p>
 <section>
-	Other group or related content
+
 </section>
 <p></p>
 <aside>
-	Create Sidebar Here
+
 </aside>
 <footer>
 	<p></p>
-	<p>For more information click the following links:</p>
+	<h2>For more information:</h2>
 	<ul>
-	<li><a href="/">Home</a>
-	<li><a href="/link">Page</a>
-	<p></p>
+	<li><a href="https://snnac.me/">SNNAC.me</a>
 	<address>
-		Contact <a href="mailto:">Desert Blockchain</a>
+	<a href=""></a>
 	</address>
